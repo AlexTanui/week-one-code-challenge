@@ -1,0 +1,16 @@
+{
+  "name": "speed-detector",
+  "version": "1.0.0",
+  "description": "speed detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "speed",
+    "detector"
+  ],
+  "author": "Alex Tanui",
+  "license": "ISC"
+}

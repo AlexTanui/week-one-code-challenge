@@ -1,0 +1,17 @@
+{
+  "name": "student-grade-generator",
+  "version": "1.0.0",
+  "description": "grade genertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "'grade'",
+    "'js'",
+    "'generator'"
+  ],
+  "author": "Alex Tanui",
+  "license": "ISC"
+}

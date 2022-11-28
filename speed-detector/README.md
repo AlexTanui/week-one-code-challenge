@@ -1,0 +1,1 @@
+This application checks the safest speed speed to drive on the road and how many points are awarded when a driver overspeeds. it also returns suspends driver's license once the points are more than 12.

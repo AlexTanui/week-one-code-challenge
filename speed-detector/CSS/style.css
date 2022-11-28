@@ -1,0 +1,50 @@
+body{
+    margin: 0;  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width:100%;
+    height:100vh;
+    background-image: linear-gradient(rgb(179, 226, 230), rgb(243, 243, 246));
+    display:grid;
+    place-items:center;
+    
+}
+.div{
+    position: relative;
+    background-color:rgb(199, 239, 240);
+    height:350x;
+    width:300px;
+    align-items: center;
+    padding-top: -60px;
+}
+#gif{
+    width:100%;
+    height:100vh;
+    z-index: -1;
+}
+
+#input{
+    padding-left: 80px;
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+
+h1{
+    padding-left: 20px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+#inst{
+    padding-left: 60px;
+    margin-bottom: 80px;
+
+}
+#CHECK{
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 10px;
+}
+#message{
+    padding-left: 50px;
+}
