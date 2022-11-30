@@ -29,7 +29,7 @@ Note it uses the old NSSF calculation method and also i have not factor in tax r
 
 * The function had several conditions to check. Therefore, a couple of helper functions were created.
 * ``if else statement ``  was used to check for various conditions
-* Minimum deductable income for NHIF is set to ksh. 500
+* Minimum deductable income for NHIF is set to ksh. 150
 * The NSSF deduction calculation uses the old NSSF plan of flat Ksh. 400
 * The payee calculation incorporated uses the normal 10%, 25% and 30% deduction of the KRA
 * The The appliction returns the Total deductions after the user has viewed his/her deductions from PAYE, NHIF and NSSF
