@@ -25,7 +25,7 @@ This application calculates Pay As You Earn (PAYE), NHIF deduction and NSSF dedu
 
 Net income is the residual amount of earnings after all deductions have been taken from gross pay, such as taxes and net income is the residual amount of earnings after all deductions have been taken from gross pay, such as payroll taxes and retirement plan contributions(NSSF) plan contributions and health insurance(NHIF)
 
-Note it uses the old NSSf calculation method and also i have not factor in tax relief.
+Note it uses the old NSSF calculation method and also i have not factor in tax relief.
 
 * The function had several conditions to check. Therefore, a couple of helper functions were created.
 * ``if else statement ``  was used to check for various conditions
@@ -35,6 +35,11 @@ Note it uses the old NSSf calculation method and also i have not factor in tax r
 * The The appliction returns the Total deductions after the user has viewed his/her deductions from PAYE, NHIF and NSSF
 
 ## Installation
+
+* In order for you to use the content on this repo ensure you have the following:
+
+A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+nodejs 9.0+
 
 * To intall this challengeor use in your computer you can either ``clone`` or ``fork`` the project
 Open a terminal / command line interface on your computer
@@ -57,6 +62,8 @@ to use and test the code you can run
 ``npm index.js ``
 
 ``npm start``
+* Find the HTML file you want to view, right-click on it, and choose Open with from the menu. You will see a full list of apps that you can use to run your file. Your default browser will be at the top of the list.
+* Select Google Chrome from the list, and view your file in the browser.
 
 ## Contributing
 
