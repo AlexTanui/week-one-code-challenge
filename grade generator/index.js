@@ -1,8 +1,9 @@
 
+// global variable for congratualation messages
 const fail = 'you have failed ! 🖐️'
 const pass = "Congratulation! you have passed this module 💪"
 
-
+// function to check student grades when marks is inserted 
 function studentGrade () {
     
     
@@ -38,5 +39,5 @@ function studentGrade () {
 
 
 }
-
+// event listener for button to check grade
 document.getElementById("btn").addEventListener('click',studentGrade)
