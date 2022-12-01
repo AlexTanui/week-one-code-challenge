@@ -6,6 +6,13 @@ This code challenge was used to test our knowledge and skills in HTML, CSS and J
 
 Every folder contains a html, css , JS and Package.json
 
+## Running The Live Hosted Application
+
+* open this [link](https://week-one-code-challenge.netlify.app/) on your browser to access the live web application
+* you can also follow the link on the left side of the repository below the discription
+* on the browser there are three link to individual challange
+* click on the link and input the value, click on the button below the input field to display the results.
+
 ## The first challenge-grade generator 
 This application is a grade generator that return the grade when the user enter numbers between 0 to 100 and it returns the equivalent Grade.
  * One main function was created to solve the challenge
