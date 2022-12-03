@@ -162,6 +162,7 @@ function totalDed (){
     const deduc = parseInt(paye()) +parseInt(NhifBycalc())  + 400
     console.log("========payee=====",paye())
     console.log("========nhif=====",NhifBycalc())
-    document.getElementById("result").innerHTML = (deduc)
+    document.getElementById("result").innerHTML = `Total Deduction = ${(deduc)} `
+    document.getElementById("netsal").innerHTML = `Net salary = ${parseInt(document.getElementById("input").value)-deduc}`
 }
 
