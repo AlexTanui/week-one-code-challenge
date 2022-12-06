@@ -94,7 +94,7 @@ Please use specific bugs and errors.
 
 ## License
 
-[IST](https://opensource.org/licenses/ISC)
+[ISC](https://opensource.org/licenses/ISC)
 
 
 ## Author
